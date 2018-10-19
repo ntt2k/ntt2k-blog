@@ -3,7 +3,7 @@
         <div class="hero-body">
             <div class="container">
             <h1 class="title">
-                Blog page is still in development
+                Blog page is still in development.
             </h1>
             <h2 class="title">
                 Please visit later ...

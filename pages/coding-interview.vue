@@ -3,10 +3,10 @@
         <div class="hero-body">
             <div class="container">
             <h1 class="title">
-                Coding-interview page is still in development
+                Coding-interview page is still in development.
             </h1>
             <h2 class="title">
-                In mean time, you can visit my
+                In the meantime, you can visit my
                 <a class="button is-medium" href="https://github.com/ntt2k" target="_blank">
                     <span class="icon">
                         <i class="fa fa-github" aria-hidden="true"></i>
