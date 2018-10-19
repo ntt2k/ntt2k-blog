@@ -1,0 +1,25 @@
+{
+  "name": "ntt2k-blog",
+  "version": "1.0.0",
+  "description": "Blog + Projects",
+  "author": "Trung Nguyen",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bulma": "^0.7.2",
+    "cross-env": "^5.2.0",
+    "font-awesome": "^4.7.0",
+    "nuxt": "^2.0.0",
+    "vue-particles": "^1.0.9"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.4",
+    "nodemon": "^1.11.0",
+    "sass-loader": "^7.1.0"
+  }
+}
