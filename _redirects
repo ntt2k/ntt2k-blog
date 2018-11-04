@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-http://elegant-nobel-c65955.netlify.com/* http://ntt2k.io/:splat 301!
+https://elegant-nobel-c65955.netlify.com/* https://ntt2k.tech/:splat 301!
