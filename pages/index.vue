@@ -66,28 +66,28 @@ export default {
       links: [
         {
           id: 0,
-          title: 'Blog',
+          title: 'About',
           class: 'button--green',
-          url: '/blog'
+          url: '/about'
         },
         {
           id: 1,
-          title: 'Coding Interview',
-          class: 'button--grey',
-          url: '/coding-interview'
-        },
-        {
-          id: 2,
           title: 'Projects',
           class: 'button--blue',
           url: '/projects'
         },
         {
-          id: 3,
-          title: 'About',
-          class: 'button--green',
-          url: '/about'
+          id: 2,
+          title: 'Coding Interview',
+          class: 'button--grey',
+          url: '/coding-interview'
         },
+        {
+          id: 3,
+          title: 'Blog',
+          class: 'button--green',
+          url: '/blog'
+        }
       ],
       socialLinks: [
         {

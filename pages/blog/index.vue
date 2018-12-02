@@ -15,7 +15,7 @@
                     </span>
                     <span>Go back</span>
                 </a>
-                </div>
+            </div>
             </div>
         </div>
     </section>
