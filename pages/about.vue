@@ -4,7 +4,7 @@
         <img src="../assets/profile_navy.jpg" style="width:80%; height:80%"  alt="trung nguyen in navy" />
         <div class="content-blog">
             <h2 class="title">Welcome to my blog</h2>
-            <p>My name is Trung Nguyen. I'm a Full-Stack Software Engineer currently reside in Austin, TX. I work for a startup software company with a mission to help all people in need to find and connect with the social service programs they need (<a href="https://about.auntbertha.com" target="_blank">https://about.auntbertha.com</a>). I'm passionate about making reliable and useful software applications. I enjoy coding and learning new ideas.</p>
+            <p>My name is Trung Nguyen. I'm a Full-Stack Software Engineer currently reside in Austin, TX. I work for a startup software company with a mission to help all people in need to find and connect with the social service programs they need (<a href="https://company.auntbertha.com/about/" target="_blank">https://company.auntbertha.com/about/</a>). I'm passionate about making reliable and useful software applications. I enjoy coding and learning new ideas.</p>
 
             <p>From being a first in my family to serve in the military (U.S Navy) to be the first to graduate college.  I now work as a full-time Software Engineer while continuing to contribute to the open-source projects and pursue my career in Data Science at Georgia Tech as an online graduate student. I build this blog to share my thought on the current trend of technology and also to showcase my hobby projects. Hope you will find this blog helpful and I'm also interested to hear what you think as well.</p>
         </div>
